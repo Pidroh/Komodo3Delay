@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AirmapUnity",
+"dataUrl": "komodo3delay.data.unityweb",
+"asmCodeUrl": "komodo3delay.asm.code.unityweb",
+"asmMemoryUrl": "komodo3delay.asm.memory.unityweb",
+"asmFrameworkUrl": "komodo3delay.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
